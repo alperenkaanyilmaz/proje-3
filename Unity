@@ -1,0 +1,19 @@
+/UnityAstroTest/
+  Assets/
+    Scenes/
+      Main.unity   <- (yeni sahne)
+    Scripts/
+      GameManager.cs
+      PlayerController.cs
+      UIManager.cs
+      LevelLoader.cs
+      SimpleAI.cs
+    Prefabs/
+      Player.prefab
+      AstroBot.prefab
+    Art/
+      Models/
+      Textures/
+    Audio/
+  ProjectSettings/
+  Packages/manifest.json
